@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MidnightCoder06
-- 👀 I’m interested in ...becoming a better software engineer #alwaysbelearning
-- 🌱 I’m currently learning ... the Azure cloud ecosystem
-- 💞️ I’m looking to collaborate on ... building distributed systems in Go or Ruby
-- 📫 How to reach me ... bookjeanleconte@gmail.com
+- 👋 Hello
